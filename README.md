@@ -1,3 +1,23 @@
+Project Title:
+
+A simple smart contract for creating and managing a token named "MyToken".
+
+Description
+The MyToken contract allows users to mint new tokens, burn existing tokens, and keep track of token balances associated with different addresses. The contract demonstrates basic token management on the Ethereum blockchain.
+
+Getting Started
+Executing program
+Follow these steps to set up and deploy the contract using Remix IDE:
+
+Open Remix IDE: Go to Remix IDE.
+
+Create a New File:
+
+In the left sidebar, click on the "+" icon to create a new file.
+Name your file MyToken.sol.
+Paste the Solidity Code:
+
+
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
@@ -48,21 +68,3 @@ This smart contract allows minting and burning of tokens, which affects the tota
 
 
 
-Project Title:
-
-A simple smart contract for creating and managing a token named "MyToken".
-
-Description
-The MyToken contract allows users to mint new tokens, burn existing tokens, and keep track of token balances associated with different addresses. The contract demonstrates basic token management on the Ethereum blockchain.
-
-Getting Started
-Executing program
-Follow these steps to set up and deploy the contract using Remix IDE:
-
-Open Remix IDE: Go to Remix IDE.
-
-Create a New File:
-
-In the left sidebar, click on the "+" icon to create a new file.
-Name your file MyToken.sol.
-Paste the Solidity Code:
