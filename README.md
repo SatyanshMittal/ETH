@@ -67,4 +67,23 @@ Decreases the balance of the from address by value.
 This smart contract allows minting and burning of tokens, which affects the total supply and the balances of the respective addresses. Make sure to test this contract thoroughly before deploying it on a live blockchain.
 
 
+Function Usage
+mint
+The mint function allows you to create new tokens and add them to a specified address.
+
+burn
+The burn function allows you to destroy tokens from a specified address, reducing the total supply.
+
+Parameters:
+_Addre: The address to which the newly minted tokens will be added. _val: The amount of tokens to mint.
+
+Help
+For common issues or problems, you can refer to the Remix IDE documentation or check the console for error messages.
+
+Authors
+Contributors names and contact info:
+
+Yuvraj Tripathi (tripathiyuvraj56@gmail.com)
+
+
 
